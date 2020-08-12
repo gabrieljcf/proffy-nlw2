@@ -40,7 +40,7 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 
 ## Como instalar na sua maquina
 
-Para clonar e executar a aplicação, você precisa ter [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] instalados em seu computador
+Para clonar e executar a aplicação, você precisa ter [Git](https://git-scm.com), [Node.js](https://nodejs.org/) + [Yarn](https://yarnpkg.com/) instalados em seu computador
 
 Em seu terminal:
 
