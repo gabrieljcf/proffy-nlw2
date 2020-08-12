@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src=".github/logo.svg" />
+    <img alt="Proffy" title="Proffy" src="data:image/png;base64,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" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="Proffy" src=".github/proffy.png" width="100%">
+  <img alt="Proffy" src="https://repository-images.githubusercontent.com/285654077/21ba6d00-d815-11ea-89e7-b32b8109f814" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## O que é next level week ?
 
-NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.
+NLW é uma semana intensa onde o objetivo é mostrar a força da stack javascript, o conteúdo é 100% pratico, onde é desenvolvido uma aplicação de ponta a ponta
 
 ## 💻 Projeto
 
@@ -40,9 +40,9 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 
 ## Como instalar na sua maquina
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer.
+Para clonar e executar a aplicação, você precisa ter [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] instalados em seu computador
 
-From your command line:
+Em seu terminal:
 
 ### Instalando API 
 
